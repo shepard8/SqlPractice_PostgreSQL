@@ -1,3 +1,5 @@
+-- https://www.postgresql.org/docs/current/citext.html
+
 -- CREATE EXTENSION citext
 
 SELECT ProductID, ProductName
